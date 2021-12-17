@@ -1,7 +1,7 @@
 ### Hi there fellas👻
 
 
-Hello everyone, my name is Arcadio Ramos I'm an software engineer graduate from ITSON, my main interest are to work on React.js projects, helping with some UX/UI, solving some issues whenever I'm able to, to keep learning on my way to acquire more software developing skills.
+Hello everyone, my name is Arcadio Ramos I'm an software engineer graduate from ITSON, my main interest are to work on React.js projects, helping with some UX/UI and logic, solving some issues whenever I'm able to, to keep learning on my way to acquire more software developing skills.
 
 - 📫 How to reach me: arcadioramosisw@gmail.com
 
